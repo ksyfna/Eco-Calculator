@@ -1,34 +1,34 @@
 # Sustainability Tracker
 
-##Table of Contents
+A command-line tool to track your recycling and energy consumption to promote **sustainable living**. This project was created for my **University Project** to raise awareness and contribute to **SDG-12** (Responsible Consumption and Production).
+
+## Table of Contents
 1. [Project Overview](#overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Universities Context](#universities-context)
-5. [Acknowledgements](#acknowledgement)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contribution](#contribution)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
+9. [Contact](#contact)
 
+## Project Overview
+The **Sustainability Tracker** allows users to track their weekly recycling efforts (glass, paper, plastic), energy consumption (electric & water bills), and overall environmental contribution score.
 
-  ##Project Overview
-The Sustainability Tracker is a command-line application created as part of a university project to help users track their recycling and energy consumption. The goal of the project is to encourage responsible behavior towards sustainability, supporting the achievement of SDG-12 (Responsible Consumption and Production). Users can track their weekly recycling efforts, monitor energy usage, and evaluate their overall progress with a scoring system.
+## Features:
+- Track **weekly recycling** for **glass**, **paper**, and **plastic**.
+- Record **electric and water bills** for energy consumption tracking.
+- Get **weekly sustainability tips** to improve your habits.
+- Calculate and track your **Contribution Score**.
+- Maintain a **weekly streak** and unlock achievements for consistency.
 
-This project was developed as part of Programming Techniques II at University Technology Malaysia in Semester 2/Year 1.
+## Technologies Used:
+- **C++** – Core programming language.
+- **Standard Library** – For input/output and string manipulation.
+- **Random Number Generation** – For weekly tips.
 
-##Features
-Track recycling efforts by entering the weight of glass, paper, and plastic recycled weekly.
-Monitor electric and water consumption through monthly bill records.
-Receive weekly sustainability tips to improve your eco-friendly habits.
-Calculate and evaluate your Contribution Score based on recycling and energy consumption.
-Track your consistency with a weekly streak tracker and unlock achievements.
-
-##Technologies Used
-C++ – Core programming language
-Standard Library – For input/output, vector, and string manipulations
-Random Number Generation – For weekly tips
-
-##University Context
-This project is developed as part of my university studies in the Computer Science at University Technology Malaysia. It serves as a practical application of various software engineering principles, including object-oriented programming (OOP), data structures, and real-world application design. The project aims to promote sustainability and raise awareness about the impact of individual actions on the environment.
-
-##Acknowledgements
-Developed as part of Bioinformatics at University Technology Malaysia.
-Special thanks to the course instructors and my peers for valuable feedback.
-This project is inspired by the importance of SDG-12 for sustainable consumption and production.
+## Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/sustainability-tracker.git
