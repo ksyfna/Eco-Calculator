@@ -1,5 +1,7 @@
 # Sustainability Tracker
 
+##Table of Contents
+1. [Project Overview](Overview)
   ##Project Overview
 The Sustainability Tracker is a command-line application created as part of a university project to help users track their recycling and energy consumption. The goal of the project is to encourage responsible behavior towards sustainability, supporting the achievement of SDG-12 (Responsible Consumption and Production). Users can track their weekly recycling efforts, monitor energy usage, and evaluate their overall progress with a scoring system.
 
